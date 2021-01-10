@@ -65,6 +65,10 @@
 					{
 						name:'7号房的礼物',
 						src:'https://yushou.qitu-zuida.com/20180225/jlVaEdK9/index.m3u8'
+					},
+					{
+						name:'疯狂的石头',
+						src:'http://yi.jingdianzuida.com/20190908/cPbNPkEn/index.m3u8'
 					}
 				]
 			}
